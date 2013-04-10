@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sitebuilder", "sitebuilder\sitebuilder.csproj", "{26E8B0EB-86A4-4E07-B02C-319EA9CE2109}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs05
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = sitebuilder\\sitebuilder.csproj
+		SccProjectName1 = sitebuilder
+		SccLocalPath1 = sitebuilder
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E8B0EB-86A4-4E07-B02C-319EA9CE2109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E8B0EB-86A4-4E07-B02C-319EA9CE2109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E8B0EB-86A4-4E07-B02C-319EA9CE2109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E8B0EB-86A4-4E07-B02C-319EA9CE2109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
